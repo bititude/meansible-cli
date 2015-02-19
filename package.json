@@ -1,0 +1,17 @@
+{
+  "name": "meansible-cli",
+  "version": "1.0.0",
+  "description": "cli interface to meansible",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "meansible",
+    "vagrant",
+    "ansible",
+    "virtualbox"
+  ],
+  "author": "Mahasooq AT <mahasooq.me@gmail.com> (http://mahasooq.com/)",
+  "license": "MIT"
+}
